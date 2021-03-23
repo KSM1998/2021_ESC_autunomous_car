@@ -1,0 +1,2 @@
+C:\Users\김성민\source\repos\2021_ESC_autunomous_car\x64\Debug\2021_ESC_autunomous_car.exe
+C:\Users\김성민\source\repos\2021_ESC_autunomous_car\x64\Debug\2021_ESC_autunomous_car.pdb
