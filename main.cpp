@@ -27,6 +27,8 @@ using  std::string;
 
 //지성 받아!
 
+//지성 받아2222
+
 //Hough Transform 파라미터
 float rho = 2; // Hough 그리드의 거리 분해능(픽셀 단위)
 float theta = 1 * CV_PI / 180; // Hough 그리드의 라디안 단위의 각도 분해능
