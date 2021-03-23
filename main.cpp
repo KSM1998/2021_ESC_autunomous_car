@@ -16,7 +16,7 @@
 #define PORT 4578               //예약된 포트를 제외하고 사용, 4자리 포트중 임의의 숫자를 할당
 #define PACKET_SIZE 1024         //패킷사이즈를 정의
 
-//sssssss
+
 using namespace cv;
 using  std::vector;
 using  std::cout;
